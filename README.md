@@ -16,4 +16,4 @@ Another way we used generative AI tools was in terms of actually customizing the
 
 The final way in which we used it was for the fuzzy matching. This was the part of our code using diff lib.get_close_matches and find_best_match(). We knew we needed a way to handle typos or variations in school names. So, we took what we learned from class and what the AI tool could help us to be more informed about in terms of string matching to make this part effective. 
 
-Also, we grabbed our CSV file’s data from Massachusetts’ Department of Education!
+Also, we grabbed our CSV file’s data from Massachusetts’ Department of Education! https://www.doe.mass.edu
